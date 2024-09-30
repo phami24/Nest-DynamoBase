@@ -13,7 +13,7 @@ Dự án này là một ứng dụng Nest.js tích hợp với Amazon DynamoDB.
 1. Clone repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/phami24/Nest-DynamoBase.git
    cd your-repo-name
    ```
 
@@ -94,28 +94,6 @@ export class YourService {
   yarn start:prod
   ```
 
-## Testing
-
-Chạy unit tests:
-
-```
-yarn test
-```
-
-Chạy e2e tests:
-
-```
-yarn test:e2e
-```
-
-## Linting
-
-Kiểm tra lỗi linting:
-
-```
-yarn lint
-```
-
 ## Tính năng
 
 - Tích hợp với Amazon DynamoDB
@@ -124,7 +102,7 @@ yarn lint
 
 ## API Documentation
 
-(Thêm thông tin về API endpoints của bạn ở đây, nếu có)
+(Swagger API Documentation)
 
 ## Deployment
 
